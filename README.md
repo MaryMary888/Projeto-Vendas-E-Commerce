@@ -3,9 +3,9 @@
 ---
 
 ## Tabelas Disponibilizadas:
-<p>**Tabela de Transações:** Contém os registros de transações realizadas pelos clientes, incluindo detalhes como ID da transação, valor e outros.</p>
-<p>**Tabela de Dados Pessoais:** Contém as informações pessoais dos clientes, como ID do cliente, nome, genero, cidade, etc.</p>
-<p>**Chave de Ligação:** As tabelas se relacionam através da coluna ID_CLIENT, que é a chave identificadora dos clientes.</p>
+- **Tabela de Transações:** Contém os registros de transações realizadas pelos clientes, incluindo detalhes como ID da transação, valor e outros.
+- **Tabela de Dados Pessoais:** Contém as informações pessoais dos clientes, como ID do cliente, nome, genero, cidade, etc.
+- **Chave de Ligação:** As tabelas se relacionam através da coluna ID_CLIENT, que é a chave identificadora dos clientes.
 ---
 
 ## Dasboard: 
