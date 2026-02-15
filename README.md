@@ -9,5 +9,10 @@
 - **Chave de Ligação:** As tabelas se relacionam através da coluna ID_CLIENT, que é a chave identificadora dos clientes.
 ---
 
+### Decisão para qual tipo de Join utilizar:
+<p>O Inner Join será utilizado para a construção do dashboard, pois o foco principal do mesmo é observar as transações válidas, ou seja, os registros completos das transações dos clientes baseados nas demais métricas, como gênero e estado. Caso Left, Right ou Full Join fossem utilizados, as colunas com valores vazios teriam certo impacto nos resultados do dashboard como o valor médio gasto pelos clientes por estado.</p>
+
+---
+
 ## Dasboard: 
 Link para Visualizar resultado no [Looker Studio](https://lookerstudio.google.com/reporting/57037706-0678-4636-9033-2f2ecc8713ee).
