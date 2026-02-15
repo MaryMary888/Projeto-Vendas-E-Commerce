@@ -1,5 +1,6 @@
 ## Objetivo do Projeto:
 <p>Realizar a junção (JOIN) de duas tabelas utilizando SQL para consolidar as informações. Exportar os dados resultantes para um arquivo CSV. Desenvolver um dashboard interativo e informativo para visualização das principais métricas e insights do e-commerce.</p>
+
 ---
 
 ## Tabelas Disponibilizadas:
